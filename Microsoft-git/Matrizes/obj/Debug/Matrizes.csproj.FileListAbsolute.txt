@@ -1,0 +1,7 @@
+C:\Users\mauri\source\repos\Microsoft\Microsoft\Matrizes\bin\Debug\Matrizes.exe.config
+C:\Users\mauri\source\repos\Microsoft\Microsoft\Matrizes\bin\Debug\Matrizes.exe
+C:\Users\mauri\source\repos\Microsoft\Microsoft\Matrizes\bin\Debug\Matrizes.pdb
+C:\Users\mauri\source\repos\Microsoft\Microsoft\Matrizes\obj\Debug\Matrizes.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Microsoft\Microsoft\Matrizes\obj\Debug\Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Microsoft\Microsoft\Matrizes\obj\Debug\Matrizes.exe
+C:\Users\mauri\source\repos\Microsoft\Microsoft\Matrizes\obj\Debug\Matrizes.pdb
